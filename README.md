@@ -7,7 +7,7 @@ A simpler solution that works for me, is to setup a simple local http file serve
 
 #### 1. Build and run the server locally
 
-The server is written in Go. To build it you need the Go compiler, then just `go build ./http_upload.go`. This will create the `http_upload` binary.
+The server is written in Go. To build it you need the Go compiler, then just `go build ./http_upload.go`. This will create the `http_upload` binary. Alternatively download the pre-built binary for macOS under releases.
 
 Run the binary from the directory you want the screenshots saved. 
 
